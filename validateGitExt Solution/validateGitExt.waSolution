@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><solution>
 	<project path="../validateGitExt/validateGitExt.waProject"/>
+	<project path="../newProject/newProject.waProject"/>
 	<file path="./Settings.waSettings">
 		<tag name="settings"/>
 	</file>
